@@ -1,5 +1,8 @@
-lista de compras del dia de hoy
+Lista de compras del dia de hoy
 
-lista de peoductos necesarios para la pizza 
+Lista de peoductos necesarios para la pizza 
 
-esta es mi lista de compras.
+Esta es mi lista de compras.
+arina
+queso 
+tomate 
